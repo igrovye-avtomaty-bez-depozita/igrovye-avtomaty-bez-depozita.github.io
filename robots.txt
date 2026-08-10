@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: igrovye-avtomaty-bez-depozita.github.io
+Sitemap: https://igrovye-avtomaty-bez-depozita.github.io/sitemap.xml
